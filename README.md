@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Clarence</h1>
 <h3 align="center">A passionate software developer based in Toronto. Currently a student at the University of Toronto studying computer science and mathematics.</h3>
 
+- 🔭 I’m currently working for [Moneris as a Software Engineer](https://www.moneris.com/)
+
+- 👨‍💻 All of my projects are available at [clarencechau.com](clarencechau.com)
+
 - 📫 How to reach me **clarence.comsci@gmail.com**
+
+- ⚡ Fun fact **I am a top nationally ranked badminton player, currently ranked 2nd in Canada for U23 MD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
