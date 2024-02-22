@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [Moneris](https://www.moneris.com/) as a Software Engineer
 
-- 👨‍💻 All of my projects are available at [clarencechau.com](https://clarencechau.com)
+- 👨‍💻 To get to know more about me, visit [clarencechau.com](https://clarencechau.com)
 
 - 📫 How to reach me **clarence.comsci@gmail.com**
 
