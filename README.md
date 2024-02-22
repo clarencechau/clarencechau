@@ -5,7 +5,7 @@
 
 - 👨‍💻 To get to know more about me, feel free to visit my portfolio at [clarencechau.com](https://clarencechau.com)
 
-- 📫 How to reach me **clarence.comsci@gmail.com**
+- 📫 You can reach me by emailing **clarence.comsci@gmail.com**
 
 - ⚡ Fun fact, **I am a top nationally ranked badminton player, currently ranked 2nd in Canada for U23 MD.**
 
