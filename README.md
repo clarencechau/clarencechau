@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **clarence.comsci@gmail.com**
 
-- ⚡ Fun fact **I am a top nationally ranked badminton player, currently ranked 2nd in Canada for U23 MD.**
+- ⚡ Fun fact, **I am a top nationally ranked badminton player, currently ranked 2nd in Canada for U23 MD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
