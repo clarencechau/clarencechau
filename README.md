@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clarence</h1>
 <h3 align="center">A passionate software developer based in Toronto. Currently a student at the University of Toronto studying computer science and mathematics.</h3>
 
-- 🔭 I’m currently working for [Moneris as a Software Engineer](https://www.moneris.com/)
+- 🔭 I’m currently working for [Moneris](https://www.moneris.com/) as a Software Engineer
 
 - 👨‍💻 All of my projects are available at [clarencechau.com](clarencechau.com)
 
