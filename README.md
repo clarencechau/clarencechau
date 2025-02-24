@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clarence</h1>
 <h3 align="center">A passionate software developer based in Toronto. Currently a student at the University of Toronto studying computer science and mathematics.</h3>
 
-- 🔭 I’m currently working for [Moneris](https://www.moneris.com/) as a Software Engineer
+- 🔭 I’m currently working for [Scotiabank](https://www.scotiabank.com/ca/en/personal.html) as a Data Engineer
 
 - 👨‍💻 To get to know more about me, feel free to visit my portfolio at [clarencechau.com](https://clarencechau.com)
 
