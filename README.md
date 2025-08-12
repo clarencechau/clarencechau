@@ -7,7 +7,7 @@
 
 - 📫 You can reach me by emailing **clarence.comsci@gmail.com**
 
-- ⚡ Fun fact, **I am a top nationally ranked badminton player, currently ranked 1st in Canada for Men's Doubles.**
+- ⚡ Fun fact, **I am a top nationally ranked badminton player, formerly ranked 1st in Canada for Men's Doubles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
